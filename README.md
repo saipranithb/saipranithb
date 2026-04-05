@@ -1,11 +1,11 @@
 <h1 align="center">Bharani Vishwamitra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Android+Product+Engineer;Builder+of+Intelligent+Systems;Embedded+%2B+AI+%2B+Distributed+Systems;I+build+things+that+should+exist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Android+Product+Engineer;Builder+of+Intelligent+Systems;Embedded+%2B+AI+%2B+Distributed+Systems" />
 </p>
 
 <p align="center">
-  <b>Shipped products. Real systems. No fluff.</b>
+  <b>Shipped products. Real systems.</b>
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ## WhimAway — AI Task Capture (Live)
 
 <p align="center">
-  <a href="https://play.google.com/store/apps">
-    <img src="https://img.shields.io/badge/🚀%20Live%20on%20Play%20Store-121212?style=for-the-badge&logo=google-play&logoColor=white" />
+  <a href="https://play.google.com/store/apps/details?id=dev.saipranith.toflowai">
+    <img src="https://img.shields.io/badge/Live%20on%20Play%20Store-121212?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ I work best where:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,python,c,cpp,react,nodejs,firebase,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,react,nodejs,firebase,supabase,docker,git,linux,cpp,java" />
 </p>
 
 ---
