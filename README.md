@@ -1,0 +1,122 @@
+<h1 align="center">Bharani Vishwamitra</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=Android+Product+Engineer;Builder+of+Intelligent+Systems;Embedded+%2B+AI+%2B+Distributed+Systems;I+build+things+that+should+exist" />
+</p>
+
+<p align="center">
+  <b>Shipped products. Real systems. No fluff.</b>
+</p>
+
+---
+
+## WhimAway — AI Task Capture (Live)
+
+<p align="center">
+  <a href="https://play.google.com/store/apps">
+    <img src="https://img.shields.io/badge/🚀%20Live%20on%20Play%20Store-121212?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
+
+An AI-powered task capture system designed for how humans actually think.
+
+- 🎙 Voice → structured tasks
+- 📸 Image → parsed into actionable items
+- ✍️ Text → intelligently expanded
+- Built with real-time sync + offline-first design
+
+> This isn’t a demo project. It’s shipped. Used. Iterated.
+
+---
+
+## About
+
+I design systems — not just screens.
+
+- Android Product Engineer (8+ years, real deployments)
+- On-device Reinforcement Learning (runs locally, no cloud cheating)
+- Embedded Systems + AI + Distributed Systems
+- Strong focus on product thinking + system design
+
+I work best where:
+
+> systems are complex, constraints are real, and outcomes matter.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,python,c,cpp,react,nodejs,firebase,docker,git,linux" />
+</p>
+
+---
+
+## Systems I’ve Built
+
+### On-Device Reinforcement Learning
+
+- Adaptive agent running fully on Android
+- Real-time learning from environment
+- Designed for constrained compute environments
+
+---
+
+### Embedded Motor Control System
+
+- ESP32 + MQTT architecture
+- Wearable input controlling remote robot
+- Real-time feedback loop via cloud
+
+---
+
+### MAYA Platform (Non-Profit)
+
+- Rebuilt full web platform (Next.js + Motion)
+- Reduced infra cost by ~75%
+- Built for scale + accessibility
+
+---
+
+## Current Focus
+
+- Distributed Systems → Federated Resource Arbiter (MEC)
+- Scaling WhimAway
+- System design at SDE-2 level
+- AI at the edge (on-device intelligence)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saipranithb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saipranithb&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saipranithb/saipranithb/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://saipranith.dev">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/saipranithb">💼 LinkedIn</a> •
+  <a href="mailto:me@saipranith.dev">📬 Email</a>
+</p>
+
+---
+
+<p align="center">
+  <i>“I don’t chase trends. I build things that should exist.”</i>
+</p>
