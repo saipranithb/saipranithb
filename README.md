@@ -10,7 +10,7 @@
 
 ---
 
-## WhimAway — AI Task Capture (Live) <img src="https://raw.githubusercontent.com/saipranithb/saipranithb/main/live-dot.svg" width="10"/>
+## WhimAway — AI Task Capture (Live) <img src="https://raw.githubusercontent.com/saipranithb/saipranithb/main/livedot.svg" width="10"/>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.saipranith.toflowai">
