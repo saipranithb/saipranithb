@@ -10,7 +10,7 @@
 
 ---
 
-## WhimAway — AI Task Capture (Live) <img src="https://raw.githubusercontent.com/saipranithb/saipranithb/live-dot.svg" width="10"/>
+## WhimAway — AI Task Capture <img src="https://img.shields.io/badge/●-00C853?style=flat-square&labelColor=000000"/> (Live)
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.saipranith.toflowai">
