@@ -1,5 +1,9 @@
 <h1 align="center">Sai Pranith Bhagavatula</h1>
 
+<p align="center">
+  <b>a.k.a. Bharani Vishwamitra</b>
+</p>
+
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=800&lines=Sai+Pranith+Bhagavatula;Bharani+Vishwamitra" />
 </h1> -->
