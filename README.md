@@ -16,7 +16,7 @@ Sai Pranith Bhagavatula
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.saipranith.toflowai">
-    <img src="https://img.shields.io/badge/Live%20on%20Play%20Store-121212?style=for-the-badge&logo=google-play&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20on%20Play%20Store-121212?style=for-the-badge&logo=google-play&logoColor=0154EE" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ An AI-powered task capture system designed for how humans actually think.
 
 <p align="center">
   <a href="https://ourmaya.in">
-    <img src="https://img.shields.io/badge/Live%20Website-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Website-121212?style=for-the-badge&logo=vercel&logoColor=0154EE" />
   </a>
 </p>
 
