@@ -89,9 +89,9 @@ I work best where:
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saipranithb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saipranithb&theme=tokyonight&hide_border=true&border_radius=12" />
