@@ -1,5 +1,7 @@
 <h1 align="center">Sai Pranith Bhagavatula</h1>
 
+<p align="center">──────────</p>
+
 <p align="center">
   <i>a.k.a. Bharani Vishwamitra</i>
 </p>
