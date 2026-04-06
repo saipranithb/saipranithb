@@ -112,5 +112,5 @@ I work best where:
 ---
 
 <p align="center">
-  <i>“Building what I love. Life's good!”</i>
+  <i>“If there's a thing to be done, I have probably already done it!”</i>
 </p>
