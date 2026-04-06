@@ -31,6 +31,25 @@ An AI-powered task capture system designed for how humans actually think.
 
 ---
 
+## MAYA — Non-Profit Platform (Live) <img src="https://raw.githubusercontent.com/saipranithb/saipranithb/main/livedot.svg" width="10"/>
+
+<p align="center">
+  <a href="https://ourmaya.in">
+    <img src="https://img.shields.io/badge/Live%20Website-121212?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+A platform built to drive real-world impact through community, mentorship, and outreach.
+
+- Fully rebuilt from scratch (Next.js + Tailwind + Motion)
+- Optimized performance and responsiveness across devices
+- Reduced infrastructure costs by ~75%
+- Designed for accessibility, clarity, and real usage
+
+> Built for impact. Not just presence.
+
+---
+
 ## About
 
 I design systems — not just screens.
@@ -69,14 +88,6 @@ I work best where:
 - ESP32 + MQTT architecture
 - Wearable input controlling remote robot
 - Real-time feedback loop via cloud
-
----
-
-### MAYA Platform (Non-Profit)
-
-- Rebuilt full web platform (Next.js + Motion)
-- Reduced infra cost by ~75%
-- Built for scale + accessibility
 
 ---
 
