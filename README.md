@@ -1,8 +1,8 @@
-<!-- <h1 align="center">Bharani Vishwamitra</h1> -->
+<h1 align="center">Sai Pranith Bhagavatula</h1>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=800&lines=Sai+Pranith+Bhagavatula;Bharani+Vishwamitra" />
-</h1>
+</h1> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=0154EE&center=true&vCenter=true&width=800&lines=Android+Product+Engineer;Builder+of+Intelligent+Systems;Embedded+%2B+AI+%2B+Distributed+Systems" />
