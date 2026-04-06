@@ -99,14 +99,6 @@ I work best where:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saipranithb/saipranithb/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
@@ -118,5 +110,5 @@ I work best where:
 ---
 
 <p align="center">
-  <i>“I don’t chase trends. I build things that should exist.”</i>
+  <i>“Building what I love. Life's good!”</i>
 </p>
