@@ -22,9 +22,9 @@ Sai Pranith Bhagavatula
 
 An AI-powered task capture system designed for how humans actually think.
 
-- 🎙 Voice → structured tasks
-- 📸 Image → parsed into actionable items
-- ✍️ Text → intelligently expanded
+- Voice → structured tasks
+- Image → parsed into actionable items
+- Text → intelligently expanded
 - Built with real-time sync + offline-first design
 
 > This isn’t a demo project. It’s shipped. Used. Iterated.
